@@ -38,3 +38,22 @@ nav li {
     border: 0;
     padding: 18px 35px;
 }
+
+.banner {
+    margin: 0 200px;
+    display: flex;
+    align-items: center;
+}
+
+.banner-sub-title {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.author-name {
+    font-weight: 700;
+    font-size: 70px;
+}
+.banner-discraption{
+    color: #757575
+}
