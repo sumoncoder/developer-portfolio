@@ -2,9 +2,11 @@
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
-.header{
+
+.header {
     background: #fff8f3;
 }
+
 nav {
     display: flex;
     justify-content: space-between;
@@ -57,8 +59,34 @@ nav li {
     font-weight: 700;
     font-size: 70px;
 }
-.banner-discription{
+
+.banner-discription {
     color: blue;
     font: size 18px;
     margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+/* main section */
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/* about section style */
+.about {
+    margin-top: 130px;
+    background: #fff8f3;
+    border-radius: 10px;
+    padding: 130px 150px;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.section-description {
+    color: #757575;
+    font-size: 18px;
 }
